@@ -48,7 +48,7 @@ VALUE ('B1', 'JOSE ANTONIO DA SILVA', 'R. FELIPE DO AMARAL, 3450', 'COTIA', 'SP'
 ('B3', 'ILDA DE MELO DA CUNHA', 'AV. POR DO SOL, 546', 'SANTO ANDRE', 'SP', '09199-444'),
 ('B3', 'MARCOS DA CUNHA', 'AV. PEDROSO DE MORAES, 546', 'SAO PAULO', 'SP', '04040-444');
 
-/*Questão 1: 
+/*QUESTÃO 1: 
 	Para associar as tabelas deve se utilizar o campo plano e o campo numero do plano
  */
  /*QUESTÃO 2:*/
